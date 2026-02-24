@@ -109,11 +109,7 @@
 
 @media screen and (min-width: 1728px) {
 
-    .carrossel__container {
-        display: flex;
-        margin: 0 20vw 3em 20vw;
-        align-items: center;
-    }
+    
 
     .swiper-pagination {
         margin: 1.5em 0 3em 0;
@@ -131,11 +127,7 @@
         font-size: 1rem;
     }
 
-    .card {
-        width: 60%;
-        margin-left: 3em;
-        margin-top: 2em;
-    }
+    
 
     .decricao {
         margin-right: 2em;
